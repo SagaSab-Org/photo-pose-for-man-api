@@ -2,7 +2,7 @@
   "backgrounds": [],
   "data": {
     "Kids": {
-      "icon_path": "icons/kid.jpg",
+      "icon_path": "images/icons/kid.jpg",
       "items": [
         {
           "path": "images/kids/1.jpg",
