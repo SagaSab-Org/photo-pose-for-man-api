@@ -1,23 +1,26 @@
 {
   "backgrounds": [],
   "data": {
-    "Kids": [
-      {
-        "path": "images/kids/1.jpg",
-        "keywords": ""
-      },
-      {
-        "path": "images/kids/2.jpg",
-        "keywords": ""
-      },
-      {
-        "path": "images/kids/3.jpg",
-        "keywords": ""
-      },
-      {
-        "path": "images/kids/4.jpg",
-        "keywords": ""
-      }
-    ]
+    "Kids": {
+      "icon_path": "icons/kid.jpg",
+      "items": [
+        {
+          "path": "images/kids/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/4.jpg",
+          "keywords": ""
+        }
+      ]
+    }
   }
 }
