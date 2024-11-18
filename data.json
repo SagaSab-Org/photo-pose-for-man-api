@@ -23,7 +23,7 @@
       ]
     },
     "Attitude": {
-      "icon_path": "images/icons/kid.jpg",
+      "icon_path": "images/icons/attitude.jpg",
       "items": [
         {
           "path": "images/attitude/1.jpg",
@@ -31,6 +31,71 @@
         },
         {
           "path": "images/attitude/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Abstract":{
+      "icon_path": "images/icons/abstract.jpg",
+      "items": [
+        {
+          "path": "images/abstract/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/attitude/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Bike":{
+      "icon_path": "images/icons/bike.jpg",
+      "items": [
+        {
+          "path": "images/bike/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/bike/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Casual":{
+      "icon_path": "images/icons/casual.jpg",
+      "items": [
+        {
+          "path": "images/casual/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/casual/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Nature":{
+      "icon_path": "images/icons/nature.jpg",
+      "items": [
+        {
+          "path": "images/nature/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/nature/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Sporty":{
+      "icon_path": "images/icons/sporty.jpg",
+      "items": [
+        {
+          "path": "images/sporty/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sporty/2.jpg",
           "keywords": ""
         }
       ]
