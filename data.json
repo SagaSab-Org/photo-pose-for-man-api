@@ -21,6 +21,19 @@
           "keywords": ""
         }
       ]
+    },
+    "Attitude": {
+      "icon_path": "images/icons/kid.jpg",
+      "items": [
+        {
+          "path": "images/attitude/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/attitude/2.jpg",
+          "keywords": ""
+        }
+      ]
     }
   }
 }
