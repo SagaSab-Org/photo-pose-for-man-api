@@ -15,6 +15,34 @@
         {
           "path": "images/kids/3.jpg",
           "keywords": ""
+        },
+        {
+          "path": "images/kids/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/6.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/7.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/8.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/9.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/kids/10.jpg",
+          "keywords": ""
         }
       ]
     },
@@ -31,7 +59,7 @@
         }
       ]
     },
-    "Abstract":{
+    "Abstract": {
       "icon_path": "images/icons/abstract.jpg",
       "items": [
         {
@@ -44,7 +72,7 @@
         }
       ]
     },
-    "Bike":{
+    "Bike": {
       "icon_path": "images/icons/bike.jpg",
       "items": [
         {
@@ -57,7 +85,7 @@
         }
       ]
     },
-    "Casual":{
+    "Casual": {
       "icon_path": "images/icons/casual.jpg",
       "items": [
         {
@@ -70,7 +98,7 @@
         }
       ]
     },
-    "Nature":{
+    "Nature": {
       "icon_path": "images/icons/nature.jpg",
       "items": [
         {
@@ -83,7 +111,7 @@
         }
       ]
     },
-    "Sporty":{
+    "Sporty": {
       "icon_path": "images/icons/sporty.jpg",
       "items": [
         {
