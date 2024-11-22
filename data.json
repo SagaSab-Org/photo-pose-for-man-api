@@ -50,11 +50,11 @@
       "icon_path": "images/icons/attitude.jpg",
       "items": [
         {
-          "path": "images/attitude/12.jpg",
+          "path": "images/attitude/12.png",
           "keywords": ""
         },
         {
-          "path": "images/attitude/13.jpg",
+          "path": "images/attitude/13.png",
           "keywords": ""
         },
         {
@@ -253,7 +253,7 @@
           "keywords": ""
         },
         {
-          "path": "images/casual/11.jpg",
+          "path": "images/casual/11.jpeg",
           "keywords": ""
         }
       ]
