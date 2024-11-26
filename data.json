@@ -50,12 +50,12 @@
       "icon_path": "images/icons/attitude.jpg",
       "items": [
         {
-          "path": "images/attitude/1.jpg",
-          "keywords": ""
+          "path": "images/attitude/12.png",
+          "keywords": "koshish"
         },
         {
-          "path": "images/attitude/2.jpg",
-          "keywords": ""
+          "path": "images/attitude/13.png",
+          "keywords": "koshish neupane"
         },
         {
           "path": "images/attitude/3.jpg",
@@ -91,6 +91,14 @@
         },
         {
           "path": "images/attitude/11.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/attitude/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/attitude/2.jpg",
           "keywords": ""
         }
       ]
@@ -242,6 +250,10 @@
         },
         {
           "path": "images/casual/10.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/casual/11.jpeg",
           "keywords": ""
         }
       ]
