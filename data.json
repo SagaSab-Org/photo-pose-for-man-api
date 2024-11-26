@@ -187,7 +187,7 @@
           "path": "images/bike/11.jpg",
           "keywords": ""
         },
-         {
+        {
           "path": "images/bike/12.jpg",
           "keywords": ""
         },
@@ -300,6 +300,68 @@
         },
         {
           "path": "images/sporty/2.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Gym": {
+      "icon_path": "images/icons/gym.jpg",
+      "items": [
+        {
+          "path": "images/gym/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/5.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/gym/6.jpg",
+          "keywords": ""
+        }
+      ]
+    },
+    "Sad": {
+      "icon_path": "images/icons/sad.jpg",
+      "items": [
+        {
+          "path": "images/sad/1.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sad/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sad/2.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sad/3.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sad/4.jpg",
+          "keywords": ""
+        },
+        {
+          "path": "images/sad/5.jpg",
           "keywords": ""
         }
       ]
