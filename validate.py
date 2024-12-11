@@ -26,6 +26,9 @@ def main():
             if not os.path.exists(image_path):
                 raise Exception(f"Image file missing {image_path}")
 
+            if image_item.get("countries") is None:
+                raise Exception(f"Countries field missing.\n{image_item}")
+
 
 if __name__ == '__main__':
     main()
