@@ -203,6 +203,36 @@
           "path": "images/abstract/10.jpg",
           "keywords": "",
           "countries": ""
+        },
+        {
+          "path": "images/abstract/11.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/abstract/12.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/abstract/13.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/abstract/14.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/abstract/15.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/abstract/16.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
         }
       ]
     },
@@ -278,6 +308,31 @@
           "path": "images/bike/14.jpg",
           "keywords": "",
           "countries": ""
+        },
+        {
+          "path": "images/bike/15.jpg",
+          "keywords": "",
+          "countries": "IN, NP, BD, PK"
+        },
+        {
+          "path": "images/bike/16.jpg",
+          "keywords": "",
+          "countries": "IN, NP, BD, PK"
+        },
+        {
+          "path": "images/bike/17.jpg",
+          "keywords": "",
+          "countries": "IN, NP, BD, PK"
+        },
+        {
+          "path": "images/bike/18.jpg",
+          "keywords": "",
+          "countries": "IN, NP, BD, PK"
+        },
+        {
+          "path": "images/bike/19.jpg",
+          "keywords": "",
+          "countries": "IN, NP, BD, PK"
         }
       ]
     },
@@ -458,6 +513,26 @@
           "path": "images/nature/16.jpg",
           "keywords": "",
           "countries": ""
+        },
+        {
+          "path": "images/nature/17.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/nature/18.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/nature/19.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
+        },
+        {
+          "path": "images/nature/20.jpg",
+          "keywords": "",
+          "countries": "IN, NP, PK, BD"
         }
       ]
     },
